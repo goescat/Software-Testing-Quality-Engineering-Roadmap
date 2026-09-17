@@ -10,7 +10,7 @@
 * [什麼是軟體測試？](/docs/fundamentals/what-is-testing.md)
   * [測試的目的](/docs/fundamentals/what-is-testing.md#測試的目的)
   * [測試的限制](/docs/fundamentals/what-is-testing.md#測試的限制)
-  * 風險
+  * [風險](/docs/fundamentals/what-is-testing.md#%E9%A2%A8%E9%9A%AA)
   * 測試範圍
   * 測試深度
   * 測試優先級
