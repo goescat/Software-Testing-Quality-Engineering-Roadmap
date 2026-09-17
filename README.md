@@ -7,15 +7,15 @@
 
 ## 測試基礎
 ### 測試思維
-* 什麼是軟體測試？
-* 測試的目的
-* 測試的限制
-* 風險
-* 測試範圍
-* 測試深度
-* 測試優先級
-* 測試左移
-* 測試右移（？）
+* [什麼是軟體測試？](/docs/fundamentals/what-is-testing.md)
+  * [測試的目的](/docs/fundamentals/what-is-testing.md#測試的目的)
+  * [測試的限制](/docs/fundamentals/what-is-testing.md#測試的限制)
+  * 風險
+  * 測試範圍
+  * 測試深度
+  * 測試優先級
+  * 測試左移
+  * 測試右移（？）
 
 ### 測試設計
 * 等價類別
