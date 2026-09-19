@@ -12,8 +12,8 @@
   * [測試的限制](/docs/fundamentals/what-is-testing.md#測試的限制)
   * [測試優先級](/docs/fundamentals/what-is-testing.md#測試優先級)
   * [測試範圍](/docs/fundamentals/what-is-testing.md#測試範圍)
-  * 測試左移
-  * 測試右移（？）
+  * [測試左移](/docs/fundamentals/what-is-testing.md#測試左移)
+  * [測試右移](/docs/fundamentals/what-is-testing.md#測試右移)
 
 ### 測試設計
 * 等價類別
