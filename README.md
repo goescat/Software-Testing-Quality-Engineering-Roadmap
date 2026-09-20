@@ -16,13 +16,14 @@
   * [測試右移](/docs/fundamentals/what-is-testing.md#測試右移)
 
 ### 測試設計
-* 等價類別
-* 邊界值分析
-* 決策表
-* 狀態轉換
-* Pairwise Testing
-* Error Guessing
-* Risk-based Testing
+
+- 使用案例／情境測試 （Use Case / Scenario Testing）
+- 等價類劃分 （Equivalence Partitioning）
+- 邊界值分析 （Boundary Value Analysis）
+- 決策表測試 （Decision Table Testing）
+- 狀態轉換測試 （State Transition Testing）
+- 配對測試 （Pairwise Testing）
+- 錯誤猜測（Error Guessing）
 
 ### 測試類型
 * 功能測試
