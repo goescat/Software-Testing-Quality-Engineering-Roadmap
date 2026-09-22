@@ -15,15 +15,15 @@
   * [測試左移](/docs/fundamentals/what-is-testing.md#測試左移)
   * [測試右移](/docs/fundamentals/what-is-testing.md#測試右移)
 
-## 測試設計
-### [測試案例設計](/docs/fundamentals/test_case_design.md)
-* [使用案例／情境測試 （Use Case / Scenario Testing）](/docs/fundamentals/test_case_design.md#使用案例情境測試) 
-* 等價類劃分 （Equivalence Partitioning）
-* 邊界值分析 （Boundary Value Analysis）
-* 決策表測試 （Decision Table Testing）
-* 狀態轉換測試 （State Transition Testing）
-* 配對測試 （Pairwise Testing）
-* 錯誤猜測（Error Guessing）
+### 測試設計
+* [測試案例設計](/docs/fundamentals/test_case_design.md)
+    * [使用案例／情境測試 （Use Case / Scenario Testing）](/docs/fundamentals/test_case_design.md#使用案例情境測試) 
+    * 等價類劃分 （Equivalence Partitioning）
+    * 邊界值分析 （Boundary Value Analysis）
+    * 決策表測試 （Decision Table Testing）
+    * 狀態轉換測試 （State Transition Testing）
+    * 配對測試 （Pairwise Testing）
+    * 錯誤猜測（Error Guessing）
 
 ### 測試類型
 * 功能測試
