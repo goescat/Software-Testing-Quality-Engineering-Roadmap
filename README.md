@@ -21,7 +21,7 @@
     * [等價類劃分 （Equivalence Partitioning）](/docs/fundamentals/test_case_design.md#等價類劃分equivalence-partition)
     * [邊界值分析 （Boundary Value Analysis）](/docs/fundamentals/test_case_design.md#邊界值分析boundary-value-analysis)
     * [決策表測試 （Decision Table Testing）](/docs/fundamentals/test_case_design.md#決策表測試decision-table-testing)
-    * 狀態轉換測試 （State Transition Testing）
+    * [狀態轉換測試 （State Transition Testing）](/docs/fundamentals/test_case_design.md#狀態轉換測試state-transition-testing)
     * 配對測試 （Pairwise Testing）
     * 錯誤猜測（Error Guessing）
 
